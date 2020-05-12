@@ -94,3 +94,63 @@ Untracked files:
         debug.log
 
 Answer 6)
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        debug.log
+
+Answer 7)
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        debug.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Answer 8)
+commit 422dd9dbefc3a61b83375cb9c594028090c0613b (HEAD -> master)
+Author: Drew Beasley <abeasley08@gmail.com>
+Date:   Tue May 12 03:03:48 2020 -0400
+
+    Initial commit
+
+Answer 9)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        debug.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10)
+The changes were not reflected in my local copy
+
+Answer 11)
+It tells me that the online version has more than the local copy has and suggests pulling it
+
+Answer 12)
+The line added online has now appeared in my local files
+
+Answer 13)
+Directory: D:\CppProjects\git-lab-2
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        5/12/2020   3:21 AM            302 .gitignore
+-a----        5/12/2020   3:21 AM             11 README.md
